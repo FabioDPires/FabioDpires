@@ -76,6 +76,7 @@ My name is Fábio and currently I am finishing my Bachelor's Degree in Computer 
 
 <p></p>
 
+  <h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/fábio-pires-0aa876206/"><img height="70" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/linkedin-logo.png"></a>
 
