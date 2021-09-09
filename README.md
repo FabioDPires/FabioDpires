@@ -19,7 +19,7 @@ My name is Fábio and currently I am finishing my Bachelor's Degree in Computer 
 - 🌱 I’m currently learning React.
 - 👍 I like FullStack Web Development.
 - 📫 How to reach me: fabiopires1011@gmail.com
-- ⚡ Fun fact: I am a huge football especially Premier League.
+- ⚡ Fun fact: I am a huge football fan especially Premier League.
 - ⚡ Fun fact: I love Quentin Tarantino movies.
 - ⚡ Fun fact: My favourite TV Show of all time is Breaking Bad.
 
