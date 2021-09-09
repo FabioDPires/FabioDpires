@@ -31,13 +31,37 @@ My name is Fábio and currently I am finishing my Bachelor's Degree in Computer 
 <h2> My stack 
 <h3> Languages </h3>
   <p align="left">
-<img height="150" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">
-    <img height="150" src="https://fedojo.com/wp-content/uploads/2019/03/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png">
-<img height="150" src="http://www.philipandes.com/img/about%20me/CSharp_logo.png">
-    <img height="150" src="https://www.mycplus.com/mycplus/wp-content/uploads/2020/10/c.png">
-<img height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png">
+<img height="100" src="https://logospng.org/download/java/logo-java-256.png">
+    <img height="100" src="https://bognarjunior.files.wordpress.com/2018/01/1crcyaithv7aiqh1z93v99q.png?w=256">
+<img height="100" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/csharp@0.0.0/csharp_256x256.png">
+    <img height="100" src="https://cdn.iconscout.com/icon/free/png-256/c-57-1175191.png">
+<img height="100" src="https://cdn.iconscout.com/icon/free/png-256/python-3628999-3030224.png">
 
 
+</p>
+  <h3> Frameworks </h3>
+  <p align="left">
+  <img height="100" src="https://abirghoudi.com/wp-content/uploads/2020/06/Angular_full_color_logo.svg.png">
+  <img height="100" src="https://www.shareicon.net/data/256x256/2016/07/08/117367_logo_512x512.png">
+  <img height="100" src="https://onlyweb-formation.com/uploads/mod_logo/nodejs1.png">
+  <img height="100" src="https://images.squarespace-cdn.com/content/v1/58e978bde58c6214d4a77c5c/1542068407031-8GGM1KO36MTCYZ08BI2U/2_dot_net_core_logo.png?format=300w">
+</p>
+  
+</p>
+  <h3> Databases</h3>
+  <p align="left">
+  <img height="100" src="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png">
+  <img height="100" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-9-1175120.png">
+  <img height="100" src="https://martinsblog.dk/wp-content/uploads/2021/07/sql-logo.png">
+  <img height="100" src="https://lh3.googleusercontent.com/proxy/DC_VBo5GA4I9TnYg_oylU13f2T15LL2Q-h3B3eNC4bGJyDsT4glKSnkTx9wN93P3S4h2fkVBjTPfkvJu_2d9qx7pAviFcZQREySKX3oxy33xBMHBCouRqqTPk3w">
+</p>
+
+</p>
+  <h3> Other</h3>
+  <p align="left">
+  <img height="100" src="https://devblogs.microsoft.com/wp-content/uploads/sites/44/2019/03/SquareLogo_128px.png">
+  <img height="100" src="https://community.chocolatey.org/content/packageimages/liquibase.4.4.3.png">
+ 
 </p>
 <h2/>
  
