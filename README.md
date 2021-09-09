@@ -24,10 +24,11 @@ My name is Fábio and currently I am finishing my Bachelor's Degree in Computer 
 - ⚡ Fun fact: I love Quentin Tarantino movies.
 - ⚡ Fun fact: My favourite TV Show of all time is Breaking Bad.
 
+<div style="margin: 40px 0; text-align: right;" align="right">
+<em style="font-size: 30px">"Tell me and I forget. Teach me and I remember. Involve me and I learn."</em>
+<p style="font-size: 18px; font-weight: bold;">Benjamin Franklin</p>
+</div>
 
-<!-- --- -->
-
-<p></p>
 
 <h2> My stack 
 <h3> Languages </h3>
