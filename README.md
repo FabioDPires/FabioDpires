@@ -28,6 +28,21 @@ My name is Fábio and currently I am finishing my Bachelor's Degree in Computer 
 
 <p></p>
 
+<h2> My stack 
+<h3> Languages </h3>
+  <p align="left">
+<img height="150" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">
+    <img height="150" src="https://fedojo.com/wp-content/uploads/2019/03/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png">
+<img height="150" src="http://www.philipandes.com/img/about%20me/CSharp_logo.png">
+    <img height="150" src="https://www.mycplus.com/mycplus/wp-content/uploads/2020/10/c.png">
+<img height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png">
+
+
+</p>
+<h2/>
+ 
+ 
+
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FabioDPires&show_icons=true&hide_border=true&theme=material-palenight" />
 
 <p></p>
