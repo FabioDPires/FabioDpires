@@ -13,9 +13,8 @@
 
 <!-- ## Hey there! <img src="assets/wave.gif" height="30px"/> -->
 
-My name is Fábio and currently I am finishing my Bachelor's Degree in Computer Science and Enginnering.
+My name is Fábio and currently I am pursuing a master's degree in Computer Science and Enginnering.
 
-- 🔭 I’m currently looking for my first job.
 - 🌱 I’m currently learning React.
 - 👍 I like FullStack Web Development.
 - 📫 How to reach me: fabiopires1011@gmail.com
